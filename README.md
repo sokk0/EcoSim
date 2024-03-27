@@ -29,18 +29,18 @@ It showcases interactions between bunnies, foxes and the resources given by the 
 5. Press `SETUP SIMULATION`
 6. Now the settings screen should appear, in which you can change initial values of the simulation
 
-<img src="images/screenshots/Settings_Screen.png" alt="an image of the settings screen" width="780">
+<img src="EcoSim/images/screenshots/Settings_Screen.png" alt="an image of the settings screen" width="780">
 
 7. Finally, press `START` to start the simulation
 
-<img src="images/screenshots/Running_Sim.png" alt="an image of the running simulation" width="780">
+<img src="EcoSim/images/screenshots/Running_Sim.png" alt="an image of the running simulation" width="780">
 
 8. Have Fun!
 ***
 ## Controls
 - To read the instructions from within the program just press `READ ME!` in the title screen
 
-<img src="images/screenshots/Info_Screen.png" alt="an image of the title screen" width="780">
+<img src="EcoSim/images/screenshots/Info_Screen.png" alt="an image of the title screen" width="780">
 
 - Press `HOME` in the top left corner to return to the title screen
 - Press `PAUSE / PLAY` in the bottom left corner to pause or play the simulation
@@ -49,7 +49,7 @@ It showcases interactions between bunnies, foxes and the resources given by the 
 
 - Click any animal and the current thirst and hunger values of that animal should appear, it should also be marked
 
-<img src="images/screenshots/Running_Sim_Selected.png" alt="an image of the running simulation" width="780">
+<img src="EcoSim/images/screenshots/Running_Sim_Selected.png" alt="an image of the running simulation" width="780">
 
 ***
 ## Model Test In JShell
