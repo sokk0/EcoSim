@@ -24,7 +24,7 @@ It showcases interactions between bunnies, foxes and the resources given by the 
 3. Run `Main.main()`
 4. Now the title screen should welcome you
 
-<img src="images/screenshots/Title_Screen.png" alt="an image of the title screen" width="780">
+<img src="EcoSim/images/screenshots/Title_Screen.png" alt="an image of the title screen" width="780">
 
 5. Press `SETUP SIMULATION`
 6. Now the settings screen should appear, in which you can change initial values of the simulation
